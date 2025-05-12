@@ -8,6 +8,9 @@ This app generates CSV files to help you easily import products into your WooCom
 - Simple and user-friendly interface.
 - Customize product details before generating the CSV.
 
+## Known limitation
+Variable Product generation not working properly. **feel free to edit and share the code.**
+
 ## How to Use
 
 ### Option 1: Open the HTML File Locally
